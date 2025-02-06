@@ -1,0 +1,9 @@
+This sample dataset is designed to work directly with the sales prediction script I provided earlier. Let me break down the columns:
+
+advertising_spend: Amount spent on advertising (in dollars)
+marketing_budget: Total marketing budget (in dollars)
+num_products: Number of products offered
+store_location: Store location ID (categorical)
+seasonal_factor: Seasonal impact on sales (1.0 is baseline)
+economic_indicator: Economic conditions factor
+total_sales: Target variable (sales amount)
